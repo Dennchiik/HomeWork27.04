@@ -1,0 +1,5 @@
+﻿  27.04(1).cpp
+C:\Users\LENOVO\source\repos\27.04(1)\27.04(1)\27.04(1).cpp(19,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\LENOVO\source\repos\27.04(1)\27.04(1)\27.04(1).cpp(20,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\LENOVO\source\repos\27.04(1)\27.04(1)\27.04(1).cpp(21,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  27.04(1).vcxproj -> C:\Users\LENOVO\source\repos\27.04(1)\x64\Debug\27.04(1).exe
